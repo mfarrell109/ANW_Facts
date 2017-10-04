@@ -1,0 +1,9 @@
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\bin\Debug\netcoreapp1.0\AlexaANWFacts.deps.json
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\bin\Debug\netcoreapp1.0\AlexaANWFacts.dll
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\bin\Debug\netcoreapp1.0\AlexaANWFacts.pdb
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\obj\Debug\netcoreapp1.0\AlexaANWFacts.csprojResolveAssemblyReference.cache
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\obj\Debug\netcoreapp1.0\AlexaANWFacts.csproj.CoreCompileInputs.cache
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\obj\Debug\netcoreapp1.0\AlexaANWFacts.AssemblyInfoInputs.cache
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\obj\Debug\netcoreapp1.0\AlexaANWFacts.AssemblyInfo.cs
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\obj\Debug\netcoreapp1.0\AlexaANWFacts.dll
+C:\Users\mark.farrell.MAN\Source\Repos\personal\AlexaANWFacts\AlexaANWFacts\obj\Debug\netcoreapp1.0\AlexaANWFacts.pdb
